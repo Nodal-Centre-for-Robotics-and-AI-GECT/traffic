@@ -95,7 +95,7 @@ Train loss      : 0.93   Train accuracy      : 0.99
 
 Validation loss : 2.94   Validation accuracy : 0.98
 
-Test loss       : 14.54  Train accuracy      : 0.95
+Test loss       : 14.54  Test accuracy      : 0.95
 
 
 ## 1. Development Environment
